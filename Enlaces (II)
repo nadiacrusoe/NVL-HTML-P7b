@@ -1,0 +1,144 @@
+ <!DOCTYPE html>
+  <html>
+   <head>
+    <meta charset="UTF=8">
+     <title> My test page </title>
+   <head>
+     <body>
+      <h1> GLOSARIO DE TÉRMINOS </h1>
+       <p> Abecedario </p>
+        <a href="#terminos_con_A"> A </a> , <a href="#terminos_con_B"> B </a> , <a href="#terminos_con_C"> C </a> , <a href="#terminos_con_D"> D </a> , <a href="#terminos_con_E"> E </a> , <a href="#terminos_con_F"> F </a> , <a href="#terminos_con_G"> G </a> , <a href="#terminos_con_H"> H </a> , <a href="#terminos_con_I"> I </a>  , <a href="#terminos_con_J"> J </a> , <a href="#terminos_con_K"> K </a> , <a href="#terminos_con_L"> L </a> , <a href="#terminos_con_M"> M </a> , <a href="#terminos_con_N"> N </a> , <a href="#terminos_con_O"> O </a> , <a href="#terminos_con_P"> P </a> , <a href="#terminos_con_Q"> Q </a> , <a href="#terminos_con_R"> R </a> , <a href="#terminos_con_S"> S </a> , <a href="#terminos_con_T"> T </a> , <a href="#terminos_con_U"> U </a> , <a href="#terminos_con_V"> V </a> , <a href="#terminos_con_W"> W </a> , <a href="#terminos_con_X"> X </a> , <a href="#terminos_con_Y"> Y </a> , <a href="#terminos_con_Z"> Z </a>    
+         <p> LISTA DE TÉRMINOS </p>
+          <ul type="square">
+           <li><a name="terminos_con_A"></a> A </li>
+             <ul type=circle>
+               <li><strong>Applet:</strong> pequeño programa hecho en lenguaje Java que se introduce en un archivo HTML.</li>
+               <li><strong>ASP:</strong> Active Server Pages. Páginas activas de servidor creadas mediante una tecnología de páginas dinámicas que permite alterar su contenido o incluso su forma, sin necesidad de editar o rescribir su código. Se trata de páginas con etiquetas de lenguaje HTML normales a las que se añaden una serie de programas.</li>
+               <li><strong>Avatar:</strong> personalidad o identidad visual que se atribuyen algunos usuarios de Internet, ya sea en algún chat, juegos, etc.</li>
+             </ul>
+           <li><a name="terminos_con_B"></a> B </li>
+             <ul type=circle>
+              <li><strong>Base de datos:</strong> formato estructurado para organizar y mantener informaciones que pueden ser fácilmente recuperadas.</li>
+              <li><strong>BIT: dígito binario. Unidad mínima de almacenamiento de la información cuyo valor puede ser 0 ó 1; o bien verdadero o falso.</li> 
+             </ul>
+           <li><a name="terminos_con_C"></a> C </li>
+             <ul type=circle>
+              <li><strong>Cliente:</strong> ordenador que requiere los servicios de otro ordenador. También, programa que requiere los servicios de otros programa. Normalmente, el navegador es un cliente de un servidor de datos.</li>
+              <li><strong>Consorcio W3 (W3C):</strong> Organización apadrinada por el MIT y el CERN cuyo propósito es el establecimiento de los estándares relacionados al WWW. Fue promovida por el creador del WWW, Tim Berners-Lee.</li>
+             </ul>
+           <li><a name="terminos_con_D"></a> D </li>
+             <ul type=circle>
+              <li><strong>DHTML o HTML Dinámico:</strong> extensiones del lenguaje HTML que permiten crear páginas web más animadas y expresivas.</li>
+              <li><strong>Dominio Público:</strong> espacio, información o programa a disposición libre de los usuarios.</li>
+             </ul>
+           <li><a name="terminos_con_E"></a> E </li>
+             <ul type=circle>
+              <li><strong>Enlace o link:</strong> conexión entre los nodos de un hipertexto.</li>         
+              <li><strong>En Línea (on Line):</strong> condición de estar conectado a una red.</li>
+             </ul>
+           <li><a name="terminos_con_F"></a> F </li>
+             <ul type=circle>
+              <li><strong>FTP:</strong> File Transfer Protocol. Protocolo de transferencia de archivos que permite transmitir ficheros sobre Internet entre una máquina local y otra remota.</li>
+              <li><strong>Flash:</strong> tecnología creada por Macromedia, que permite el diseño y la creación de animaciones utilizando menos ancho de banda que otros formatos, como AVI o MPEG.</li>
+             </ul>
+           <li><a name="terminos_con_G"></a> G </li>
+             <ul type=circle>
+              <li><strong>Gateway:</strong> puerta de enlace entre dos o más redes.</li>
+              <li><strong>GOPHER:</strong> sistema de entrega de información distribuido, ya casi no se utiliza en la red.</li>
+             </ul>
+           <li><a name="terminos_con_H"></a> H </li>
+             <ul type=circle>
+              <li><strong>Hipertexto:</strong> Modelo teórico de organización de la información de forma multisecuencial. También se denomina hipertexto al programa informático o herramienta de software que permite leer y escribir hipertextos (sistema de gestión de hipertextos). Documento digital en el que la información se estructura en una red de nodos y enlaces y que permite acceder a la información no necesariamente de forma secuencial (hiperdocumento). En documentación un hipertexto es un sistema de organización y presentación de documentos en un medio informático, que se basa en la vinculación de documentos o fragmentos documentales digitales (textuales o gráficos) a otros fragmentos o documentos (en cualquier morfología digital: texto, imagen, audio, vídeo, datos, programas informáticos y otras aplicaciones capaces de generar un contenido dinámico), lo que permite acceder a la información no necesariamente de forma secuencial. El hipertexto por excelencia es la World Wide Web.</li>
+              <li><strong>Hipervínculo, vínculo o enlace:</strong>vínculo existente en un documento hipertexto que apunta o enlaza a otro documento que puede ser o no otro documento hipertexto.</li>
+             </ul>
+           <li><a name="terminos_con_I"></a> I </li>
+             <ul type=circle>
+              <li><strong>Interfaz (Interface):</strong>zona de contacto o conexión entre dos componentes de hardware; entre dos aplicaciones, o entre un usuario y una aplicación. Apariencia externa de una aplicación informática.</li>
+              <li><strong>IP:</strong>Internet Protocol. Base del conjunto de protocolos que forman Internet y que permite que los paquetes de información sean direccionados y enrutados.</li>
+             </ul>
+           <li><a name="terminos_con_J"></a> J </li>
+             <ul type=circle>
+              <li><strong>Java:</strong>enguaje de programación de alto nivel orientado a objetos, desarrollado por Sun Microsystems y que corre sobre diversas plataformas.</li>
+              <li><strong>Javascript:</strong>Lenguaje desarrollado por Netscape Communications para añadir interactividad a las páginas Web. Tiene menos potencialidad que Java, pero con él se puede trabajar en todas las plataformas y navegadores.</li>
+             </ul>
+           <li><a name="terminos_con_K"></a> K </li>
+             <ul type=circle>
+              <li><strong>Knowbot (robot de conocimiento):</strong> sistema de recuperación semiautomatizada de la información existente en la red.</li>
+              <li><strong>Keyword (clave de búsqueda, palabra clave):</strong> término para buscar información dentro de  un buscador o para registrar una página web en un buscador.</li>
+             </ul>
+           <li><a name="terminos_con_L"></a> L </li>
+             <ul type=circle>
+              <li><strong>Linux:</strong> versión de libre distribución del sistema operativo UNIX que no tiene código propietario y se distribuye libremente bajo licencia pública GNU. El kernel fue escrito por Linux Torvalds  y otros voluntarios de distintos lugares del mundo. Muchos de los programas que corren sobre Linux son de uso libre.</li>
+              <li><strong>Listserv (Servidor de Listas):</strong>programa que permite la creación y distribución de listas de correo de forma que la comunicación con el programa es vía correo electrónico. La ventaja de Listserv frente a Majordomo se basa en que conociendo el nombre de un servidor Listserv es posible obtener copia de todas las listas de correo de todo el mundo. La comunicación con Listserv se basa en enviar en el cuerpo del mensaje (no en el subject) la instrucción deseada.</li>
+             </ul>
+           <li><a name="terminos_con_M"></a> M </li>
+             <ul type=circle>
+              <li><strong>Mapa:</strong>representación gráfica de la estructura de un hipertexto para la orientación y navegación.</li>
+              <li><strong>Metadato:</strong>dato que describe otro dato. Los metadatos se utilizan par describir recursos.</li>
+             </ul>
+           <li><a name="terminos_con_N"></a> N </li>
+             <ul type=circle>
+               <li><strong>Navegación:</strong>Acción y efecto de leer, explorar, moverse y usar un hipertexto.</li>
+               <li><strong>Nodo:</strong>cada una de las unidades de información de un hipertexto. En informática, un nodo es el punto de unión entre varias redes. Cada nodo de una red tiene un nombre distinto. En Internet, un nodo es un host con un solo nombre de dominio y dirección que le han sido asignados por InterNIC.</li>
+             </ul>
+           <li><a name="terminos_con_O"></a> O </li>
+             <ul type=circle>
+              <li><strong>OSI:</strong>Open Systems Interconnection. Estándar internacional para facilitar la comunicación entre ordenadores.</li>
+              <li><strong>OWL:</strong>Ontoloy Web Language o Lenguaje de ontologías para la World Wide Web.</li>
+              <li></li>
+             </ul> 
+           <li><a name="terminos_con_P"></a> P </li>
+             <ul type=circle>
+              <li><strong>Plug-in:</strong>pequeño programa que añade alguna funcionalidad.</li>
+              <li><strong>Proxy:</strong>mecanismo que permite compartir una única conexión a una red externa entre todos los puertos de una red local.</li>
+             </ul>
+           <li><a name="terminos_con_Q"></a> Q </li>
+             <ul type=circle>
+              <li><strong></strong></li>
+             </ul>
+           <li><a name="terminos_con_R"></a> R </li>
+             <ul type=circle>
+              <li><strong>Recurso:</strong> cualquier elemento en la Web que puede ser descrito de forma independiente (una página web, un archivo de audio, un correo electrónico, etc.).</li>
+             </ul>
+           <li><a name="terminos_con_S"></a> S </li>
+             <ul type=circle>
+              <li><strong>Servidor:</strong>ordenador o programa que da servicios a otro conocido como cliente. En un sistema de hipertexto, un servidor dará información al navegador.</li>
+              <li><strong>Soporte:</strong>medio de almacenamiento de la información digital.</li>
+             </ul>
+           <li><a name="terminos_con_T"></a> T </li>
+             <ul type=circle>
+              <li><strong>TCP:</strong>Transmission Control Protocol.  El protocolo de transporte de datos más popular en Internet.</li>
+              <li><strong>Telnet:</strong>Terminal Emulation. Protocolo para establecer conexiones entre terminales remotos. Permite que un usuario desde un ordenador remoto se conecte a otro ordenador en una red y, por medio de comandos, entre en el ordenador remoto como si estuviera directamente conectado a él. Actualmente en desuso.</li>
+             </ul>
+           <li><a name="terminos_con_U"></a> U </li>
+             <ul type=circle>
+              <li><strong>URI:</strong>Universal Resource Identifier. Una cadena algorítmica que se usa para identificar un documento o recurso en la Web.</li>
+              <li><strong>URL:</strong>Uniform Resource Locator. Sistema de direccionamiento estándar de archivos y funciones en Internet, especialmente en la WWW. El URL está formado por el protocolo de servicio (http: ftp: gopher: mailto), el nombre del servidor u ordenador que contiene el recurso, la ruta de acceso al recurso y el recurso buscado.</li>
+             </ul>
+           <li><a name="terminos_con_V"></a> V </li>
+             <ul type=circle>
+              <li><strong>VRML:</strong> irtual Reality Modeling Language. Lenguaje de programación utilizado para hacer presentaciones de realidad virtual y 3D en la WWW. El término "VRML" fue acuñado por Dave Ragget en la 1ª  Conferencia sobre WWW celebrada en Génova en mayo de 1994. Requiere un navegador especial o un plugin.</li>
+             </ul>
+           <li><a name="terminos_con_W"></a> W </li>
+             <ul type=circle>
+              <li><strong>WWW o la WEB o World Wide  Web:</strong>medio más popular de comunicación en Internet. Sistema de distribución y recuperación de información hipermedia (hipertexto+multimedia) almacenada en los diferentes nodos de Internet. Este protocolo fue desarrollado por Tim Berners-Lee en 1990 para ayudar a los desarrolladores del CERN a compartir información a través de los diversos ordenadores de la red y se ha extendido a nivel mundial.</li>
+             </ul>
+           <li><a name="terminos_con_X"></a> X </li>
+             <ul type=circle>
+              <li><strong>XML:</strong>Lenguaje Extensible de Marcado. Lenguaje desarrollado por el W3 Consortium para permitir la descripción de información contenida en el WWW a través de estándares y formatos comunes, de manera que tanto los usuarios de Internet como programas específicos (agentes) puedan buscar, comparar y compartir información en la red. El formato de XML es muy parecido al del HTML aunque no es una extensión ni un componente de éste.</li>
+             </ul>
+           <li><a name="terminos_con_Y"></a> Y </li>
+             <ul type=circle>
+              <li></li>
+             </ul>
+           <li><a name="terminos_con_Z"></a> Z </li>
+             <ul type=circle>
+              <li></li>   
+             </ul>
+        </ul>
+      </body>
+    </html>
+       
+         
+      
+                      
